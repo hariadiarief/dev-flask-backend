@@ -1,0 +1,51 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Local configuration
+instance/
+
+# Environment variables
+.env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# VSCode files
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
